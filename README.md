@@ -1,6 +1,18 @@
-# mvvm_architecture
+# MVVM Architecture Project
 
-A new Flutter project.
+This project Demonstrate how to implement MVVM Architecture in this Flutter App.
+
+MVVM is useful to move business logic from view to ViewModel and Model. ViewModel is the mediator between View and Model which carry all user events and return back the result.
+
+There are three key things that flow out of applying MVVM −
+
+- Maintainability:- The presentation layer and the logic are loosely coupled, due to this code is easily maintainable and reusable. As the code base will increase over the course of time, this will help you to distinguish between them.
+
+- Testability:- The ViewModel is easier to unit test than code-behind or event-driven code. Thanks to separation logic MVVM have 😀
+
+- Extensibility:- This architecture gives you assurance which enables code to get extensible over the period of time. but keep in mind it’s also over job to keep component reusable.
+
+MVVM is heavily used nowadays as it supports an event-driven approach, which goes hand in hand as a lot of flutter components are performed based on events.
 
 ## Getting Started
 
