@@ -14,6 +14,8 @@ There are three key things that flow out of applying MVVM −
 
 MVVM is heavily used nowadays as it supports an event-driven approach, which goes hand in hand as a lot of flutter components are performed based on events.
 
+**important: This Project is still in _Active Development_ and not completed.**
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
